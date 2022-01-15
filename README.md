@@ -6,5 +6,5 @@
 - I aspire to become a full stack developer & an Open-source contributor.
 
 #### Find me on 
-- [![Twitter icon][http://i.imgur.com/tXSoThF.png]}[http://twitter.com/sayawn_]
+- [![Twitter icon][http://i.imgur.com/tXSoThF.png]][http://twitter.com/sayawn_]
 
