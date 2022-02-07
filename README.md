@@ -1,9 +1,11 @@
-## Hey there, I'm **Sayan**! 
+## Hey there, I'm **Sayan**! 👋
 
-### I'm an engineering undergraduate at BITS Pilani, K.K Birla Goa Campus. 
+### I'm currently an engineering undergraduate at BITS Pilani, K.K Birla Goa Campus. 
 
-- I’m currently learning Java & C++
+- Languages known: Java, C++
+- Currently learning: HTML, CSS, JavaScript
+- Interests: Photography, Finance, Cricket
 
-#### Find me on 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sayawn)     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sayawn/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sayawn_)        [<img src='hhttps://www.flaticon.com/free-icon/linkedin_174857' alt='twitter' height='40'>](https://twitter.com/sayawn_)     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/sayawn_)  
+#### Let's connect! Drop a Hi👋 on
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sayawn)     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sayawn/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sayawn_)            [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/sayawn_)  
  
